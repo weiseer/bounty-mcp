@@ -1,6 +1,6 @@
 {
   "name": "@weiseer/bounty-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "mcpName": "io.github.weiseer/bounty-mcp",
   "description": "Live coding-bounty deal-flow from verified-escrow GitHub bounties for AI agents finding paid work.",
   "type": "module",
@@ -40,6 +40,6 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^0.6.0"
+    "@modelcontextprotocol/sdk": "^1.29.0"
   }
 }
